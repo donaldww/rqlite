@@ -1,7 +1,8 @@
 repo_name: donaldww/rqlite
 report_id: 34375a8a5f0e674e22e6079304238750
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:11:51+00:00'
+timestamp: '2024-01-04T15:02:29+00:00'
 requested_by: otoolep
 provider: github
 branch: master
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/donaldww/rqlite
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/donaldww/rqlite
   detection_source: Repo Metadata
 - name: CircleCI
   description: Automate your development process quickly, safely, and at scale
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/donaldww/rqlite/blob/master/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: Philip O'Toole
   last_updated_on: 2019-07-22 00:02:39.000000000 Z
@@ -47,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/donaldww/rqlite
   detection_source: Repo Metadata
 - name: Vagrant
   description: A tool for building and distributing development environments
@@ -57,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Management
   image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/donaldww/rqlite/blob/master/Vagrantfile
   detection_source: Vagrantfile
   last_updated_by: Philip O'Toole
   last_updated_on: 2015-04-19 18:56:46.000000000 Z
@@ -69,6 +75,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/donaldww/rqlite
   detection_source: Repo Metadata
 - name: go-sqlite3
   description: Sqlite3 driver for go using database/sql
@@ -79,6 +86,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/donaldww/rqlite/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Elliot Courant
   last_updated_on: 2019-07-15 19:12:26.000000000 Z
